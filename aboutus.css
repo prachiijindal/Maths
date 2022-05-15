@@ -1,0 +1,33 @@
+h2 {font-family: Arial Narrow Bold;
+font-weight: bold;
+color: #ceceff;}
+
+body {background: url("https://www.pixelstalk.net/wp-content/uploads/2016/05/Amazing-HD-Black-Wallpapers.jpg");
+display: inline-flex;
+position: relative;}
+
+h1{background-color: yellowgreen;
+color: black;
+font-family: Arial Narrow Bold;}
+
+#about-us-content{color: #ceceff;
+font-family: cursive;
+font-size: 30px;
+width: 70%;
+height: auto;
+/*border: 5px solid; whitesmoke;*/
+margin: 5px;
+padding: 10px;}
+
+#aside{color: #ceceff;
+	box-shadow: whitesmoke ;
+font-family: cursive;
+font-size: 30px;
+width: 100%;
+height: auto;
+border: 1.7px solid whitesmoke;
+margin-top: 10px;
+margin-left: 50px;
+margin-right: 5px;
+margin-bottom: 5px;
+padding: 10px;}
